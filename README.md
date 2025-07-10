@@ -63,8 +63,8 @@ npm install
 
 [ RECOMMENDED INSTALL ON TERMUX ]
 ```bash
-pkg install yarn
-yarn
+pkg install ronz
+ronz
 ```
 
 ---
