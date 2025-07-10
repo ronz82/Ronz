@@ -1,0 +1,3 @@
+{
+  "ignore": ["ronz", "node_modules", "database", "logs"]
+}
